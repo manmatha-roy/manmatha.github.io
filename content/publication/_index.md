@@ -35,5 +35,5 @@ cms_exclude: true
    Indocrypt (2022).
 
 9. **Experimental Results on Higher-Order Differential Spectra of 6- and 8-bit Invertible S-Boxes**  
-   *Subhamoy Maitra, Biman Mandol, Deng Tang, and Manmatha Roy*  
+   *Subhamoy Maitra, Bimal Mandol, Deng Tang, and Manmatha Roy*  
    *International Conference on Security, Privacy and Applied Cryptographic Engineering (2020).*

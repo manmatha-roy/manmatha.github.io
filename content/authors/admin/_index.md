@@ -78,5 +78,7 @@ work:
 ---
 
 ## About Me
-I am a researcher in the Crypto Group at the Indian Statistical Institute, Kolkata, currently pursuing a PhD under the joint supervision of Subhamoy Maitra and Arijit Ghosh. My research interests lie in Theoretical Computer Science, with a focus on Boolean-valued functions over discrete algebraic structures. I study their structural properties and design sublinear algorithms for learning and testing such functions, with applications to cryptography, coding theory, and learning theory.
+I am a researcher at the Indian Statistical Institute, Kolkata, currently pursuing a PhD under the joint supervision of Subhamoy Maitra and Arijit Ghosh. My research interests lie in Theoretical Computer Science, focusing on Boolean-valued functions over discrete algebraic structures. I study their structural properties and design sublinear algorithms for learning and testing such functions, with applications to cryptography, coding theory, and learning theory.
+
+
 
