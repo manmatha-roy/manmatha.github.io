@@ -72,10 +72,8 @@ work:
     company_logo: ''
     date_start: 2022
     date_end: ''
-
-
+---
 
 ## About Me
 
 I am a researcher in the Crypto group at Indian Statistical Institute, Kolkata. My research interest lies broadly in Theoretical Computer Science and Cryptography. More specifically, I am working on designing efficient algorithms for learning and testing functions over the Hamming Cube. Recently, I have been focusing on problems related to designing cryptographic primitives in the presence of stronger real-world adversaries such as leakage, subversion, and trojans.
----
