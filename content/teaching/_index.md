@@ -1,23 +1,19 @@
 ---
 title: Teaching
-summary: My courses
-type: landing
-
-cascade:
-  - _target:
-      kind: page
-    params:
-      show_breadcrumb: true
-
-sections:
-  - block: collection
-    id: teaching
-    content:
-      title: Teaching
-      filters:
-        folders:
-          - teaching
-    design:
-      view: article-grid
-      columns: 2
+date: '2025-08-04'
+type: page
 ---
+
+## 2024–25
+- Computing System Security 1
+- Computing System Security 2
+
+## 2023–24
+- Computing System Security 1
+- Computing System Security 2
+
+## 2022–23
+- Computing System Security 2
+
+## 2021–22
+- Cryptology
