@@ -8,10 +8,6 @@ title: Manmatha Roy
 first_name: Manmatha Roy
 last_name: Roy
 
-# Status emoji
-status:
-  icon: 
-
 # Is this the primary user of the site?
 superuser: true
 
