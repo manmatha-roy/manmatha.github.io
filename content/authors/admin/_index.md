@@ -42,7 +42,10 @@ profiles:
 #    url: https://orcid.org/
 
 interests:
-  - Theoretical Computer Science
+  - Fourier Analysis
+  - Computational Learning Theory
+  - Cryptography
+  - Coding Theory
 
 education:
   - area: PhD in Computer Science (Expected December, 2025)
@@ -50,7 +53,7 @@ education:
     date_start: 2020
     date_end: 2025
     summary: |
-      Thesis on testing and learning functions over discrete algberaicv structure. 
+      Thesis on testing and learning functions over discrete algberaic structure. 
 #    button:
 #      text: 'Read Thesis'
 #      url: 'https://example.com'
@@ -66,7 +69,7 @@ education:
     date_end: 2012
 
 work:
-  - position: Assocaite Scientist A
+  - position: Associate Scientist A
     company_name: Indian Statistical Institute, Kolkata
     company_url: ''
     company_logo: ''
