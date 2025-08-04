@@ -3,8 +3,6 @@ title: Publications
 cms_exclude: true
 ---
 
-# Publications
-
 ## Preprints
 1. **Ghosh, Kayal, Paraashar, and Roy**  
    *Testing Isomorphism of Fourier Sparse Boolean Functions*, Submitted.
