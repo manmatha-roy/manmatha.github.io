@@ -5,7 +5,7 @@ title: Manmatha Roy
 
 
 # Full name (for SEO)
-first_name: Manmatha Roy
+first_name: Manmatha
 last_name: Roy
 
 # Is this the primary user of the site?
@@ -15,7 +15,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Assiciate Scientist A
+role: Associate Scientist A
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -73,8 +73,9 @@ work:
     date_start: 2022
     date_end: ''
 
----
+
 
 ## About Me
 
 I am a researcher in the Crypto group at Indian Statistical Institute, Kolkata. My research interest lies broadly in Theoretical Computer Science and Cryptography. More specifically, I am working on designing efficient algorithms for learning and testing functions over the Hamming Cube. Recently, I have been focusing on problems related to designing cryptographic primitives in the presence of stronger real-world adversaries such as leakage, subversion, and trojans.
+---
