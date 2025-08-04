@@ -5,16 +5,16 @@ cms_exclude: true
 
 ## Preprints
 1. **Ghosh, Kayal, Paraashar, and Roy**  
-   *Testing Isomorphism of Fourier Sparse Boolean Functions*, Submitted.
+   *Testing Isomorphism of Fourier Sparse Boolean Functions*
 
 2. **Dutta, Ghosh, Kayal, Paraashar, and Roy**  
-   *Testing Isomorphism of Boolean Functions over Certain Families of Abelian Groups*, Submitted.
+   *Testing Isomorphism of Boolean Functions over Certain Families of Abelian Groups*
 
 3. **Maitra, Chattopadhyay, Mandol, Tang, and Roy**  
-   *Efficient Hardware Implementation of Maiorana-McFarland Type Cryptographically Significant Boolean Functions*, Submitted.
+   *Efficient Hardware Implementation of Maiorana-McFarland Type Cryptographically Significant Boolean Functions*
 
 4. **Ghosh, Kayal, Paraashar, and Roy**  
-   *Linear Isomorphism Testing of Boolean Functions with Small Approximate Spectral Norm*, CoRR abs/2308.02662 (2023).
+   *Linear Isomorphism Testing of Boolean Functions with Small Approximate Spectral Norm*
 
 ---
 
