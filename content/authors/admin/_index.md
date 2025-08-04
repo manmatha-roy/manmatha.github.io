@@ -3,7 +3,7 @@
 title: Manmatha Roy
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Manmatha Roy
 
 # Full name (for SEO)
 first_name: Manmatha Roy
@@ -25,7 +25,7 @@ role: Assiciate Scientist A
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Indian Statistical Institute, Kolkata
-    url: https://isical.c.in
+    url: https://isical.ac.in
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
