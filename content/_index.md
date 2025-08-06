@@ -19,12 +19,12 @@ sections:
         text: My resume
         url: uploads/resume.pdf
     design:
-      css_class: light
+      css_class: dark
       background:
-        color: white
+        color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks-1.svg
+          filename: stacked-peaks.svg
           filters:
             brightness: 1.0
           size: cover
