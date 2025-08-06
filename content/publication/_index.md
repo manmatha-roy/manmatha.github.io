@@ -23,7 +23,7 @@ cms_exclude: true
 
 5. **On Differential Uniformity of Extremal Functions**  
    *Nikolay Stoyanov Kaleyski and Manmatha Roy*
-   BFA(2025).
+   BFA (2025).
 6. **Testing Isomorphism of Boolean Functions over Abelian Groups**  
    *Swarnalipa Dutta, Arijit Ghosh, Chandrima Kayal, Manaswi Paraashar, and Manmatha Roy*  
    RANDOM (2025).
