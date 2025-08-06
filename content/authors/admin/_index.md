@@ -48,7 +48,7 @@ interests:
   - Coding Theory
 
 education:
-  - area: PhD in Computer Science (Expected December, 2025)
+  - area: PhD in Computer Science (Expected December 2025)
     institution: Indian Statistical Institute, Kolkata
     date_start: 2020
     date_end: 2025
@@ -78,7 +78,7 @@ work:
 ---
 
 ## About Me
-I am a researcher at the Indian Statistical Institute, Kolkata, currently pursuing a PhD under the joint supervision of Subhamoy Maitra and Arijit Ghosh. My research interests lie in Theoretical Computer Science, focusing on Boolean-valued functions over discrete algebraic structures. I study their structural properties and design sublinear algorithms for learning and testing such functions, with applications to cryptography, coding theory, and learning theory.
+I am a researcher at the Indian Statistical Institute, Kolkata, where I am also pursuing a PhD under the joint supervision of Prof. [Subhamoy Maitra](https://isi.irins.org/profile/61161) and Dr. [Arijit Ghosh](https://sites.google.com/site/homepagearijitghosh/). My research interests are in Theoretical Computer Science, with a focus on Boolean-valued functions over discrete algebraic structures. I investigate their structural properties and develop efficient algorithms for learning and testing these functions, with applications to cryptography, coding theory, and learning theory.
 
 
 
