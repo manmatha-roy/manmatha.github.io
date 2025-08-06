@@ -32,7 +32,6 @@ header:
     enable: true
     blox: "navbar"
     fixed_to_top: true
-    show_search: true
     logo:
       text: ""
 
