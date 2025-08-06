@@ -7,7 +7,7 @@ cms_exclude: true
 1. **Tight Bounds for Testing Isomorphism of Boolean Functions**  
    *Swarnalipa Dutta, Arijit Ghosh, Chandrima Kayal, Manaswi Paraashar, and Manmatha Roy*
 
-2. **Linear Isomorphism in the Communication World**  
+2. **Deciding Linear Isomorphism in the Communication World**  
    *Swarnalipa Dutta, Arijit Ghosh, Chandrima Kayal, Manaswi Paraashar, and Manmatha Roy*
 
 3. **Testing Fourier Sparsity via Implicit Sensing**  
@@ -16,17 +16,19 @@ cms_exclude: true
 4. **Testing Fourier Sparsity**  
    *Arijit Ghosh and Manmatha Roy*
 
-5. **On Differential Uniformity of Extremal Functions**  
-   *Nikolay Stoyanov Kaleyski and Manmatha Roy*
 
 ---
 
 ## Published
-6. **Testing Isomorphism of Boolean Functions over Certain Families of Abelian Groups**  
+
+5. **On Differential Uniformity of Extremal Functions**  
+   *Nikolay Stoyanov Kaleyski and Manmatha Roy*
+   BFA(2025).
+6. **Testing Isomorphism of Boolean Functions over Abelian Groups**  
    *Swarnalipa Dutta, Arijit Ghosh, Chandrima Kayal, Manaswi Paraashar, and Manmatha Roy*  
    RANDOM (2025).
 
-7. **Efficient Hardware Implementation of Maiorana–McFarland Type Cryptographically Significant Boolean Functions**  
+7. **Construction of Maiorana-McFarland type cryptographically significant Boolean functions with good implementation properties**  
    *Deng Tang, Anupam Chattopadhyay,  Manmatha Roy, Bimal Mandol,  and Subhamoy Maitra*  
    Communications in Cryptology (2025).
 
