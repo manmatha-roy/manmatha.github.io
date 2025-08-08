@@ -4,16 +4,16 @@ cms_exclude: true
 ---
 
 1. **Tight Bounds for Testing Isomorphism of Boolean Functions**  
-   *Swarnalipa Dutta, Arijit Ghosh, Chandrima Kayal, Manaswi Paraashar, and Manmatha Roy* (Preprint)
+   *Swarnalipa Dutta, Arijit Ghosh, Chandrima Kayal, Manaswi Paraashar, and Manmatha Roy* (Submitted)
 
 1. **Deciding Linear Isomorphism in the Communication World**  
-   *Swarnalipa Dutta, Arijit Ghosh, Chandrima Kayal, Manaswi Paraashar, and Manmatha Roy* (Preprint)
+   *Swarnalipa Dutta, Arijit Ghosh, Chandrima Kayal, Manaswi Paraashar, and Manmatha Roy* (Submitted)
 
 1. **Testing Fourier Sparsity via Implicit Sensing**  
-   *Arijit Ghosh, Subhamoy Maitra, and Manmatha Roy* (Preprint)
+   *Arijit Ghosh, Subhamoy Maitra, and Manmatha Roy* (Submitted)
 
 1. **Testing Fourier Sparsity**  
-   *Arijit Ghosh and Manmatha Roy* (Preprint)
+   *Arijit Ghosh and Manmatha Roy* (Submitted)
 
 1. **On Differential Uniformity of Extremal Functions**  
    *Nikolay Stoyanov Kaleyski and Manmatha Roy*  
