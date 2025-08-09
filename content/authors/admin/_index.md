@@ -48,7 +48,7 @@ interests:
   - Coding Theory
 
 education:
-  - area: PhD in Computer Science (Expected December 2025)
+  - area: PhD in Computer Science (Ongoing)
     institution: Indian Statistical Institute, Kolkata
     date_start: 2020
     date_end: 2025
